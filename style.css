@@ -1,0 +1,11 @@
+.border-3 {
+  border-width:3px !important;
+}
+
+.border-blue {
+  border-color:#0450b3 !important;
+}
+
+.text-red {
+  color: #d04718
+}
